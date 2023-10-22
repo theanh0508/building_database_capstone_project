@@ -1,2 +1,2 @@
 # db-capstone-project
-Meta Engineering Certificate Final Capstone Project
+This repository contains Meta Engineering Certificate Final Capstone Project
