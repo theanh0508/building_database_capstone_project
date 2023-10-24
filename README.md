@@ -1,6 +1,6 @@
 # Database Capstone Project
 
-This repository contains the final capstone project for the Meta Engineering Certificate.
+This repository contains the final capstone project for the Meta Engineering Certificate in Coursera.
 
 ## Project Overview
 
